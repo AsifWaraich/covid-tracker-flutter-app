@@ -1,7 +1,7 @@
 # 🌍 COVIDApp - Global COVID-19 Statistics Tracker
 
-**Version:** 1.0.0  
-**Status:** Stable Release  
+**Version:** 1.0.0
+**Status:** Stable Release
 **Developer:** **Asif Javed** (Flutter Developer)
 
 [![Download APK](https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AsifWaraich/covid-tracker-flutter-app/releases/download/v1.0.0/app-debug.apk)
@@ -71,11 +71,11 @@ This project reflects practical experience in Flutter mobile app development and
 
 This project demonstrates:
 
-✅ Flutter Mobile App Development  
-✅ REST API Integration  
-✅ Clean UI/UX Principles  
-✅ Responsive Design  
-✅ Data Visualization  
+✅ Flutter Mobile App Development
+✅ REST API Integration
+✅ Clean UI/UX Principles
+✅ Responsive Design
+✅ Data Visualization
 ✅ Real-world Information App Development
 
 ---
