@@ -25,7 +25,7 @@ Watch the app demo video here:
 
 |                  Splash Screen                   |                   Global Stats                   |                  Country Search                  |                      Charts                      |
 |:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
-| <img src="screenshots/screenshot 1" width="200"> | <img src="screenshots/screenshot 2" width="200"> | <img src="screenshots/screenshot 3" width="200"> | <img src="screenshots/screenshot 5" width="200"> |
+| <img src="screenshots/screenshot 1.jpeg" width="200"> | <img src="screenshots/screenshot 2.jpeg" width="200"> | <img src="screenshots/screenshot 3.jpeg" width="200"> | <img src="screenshots/screenshot 5.jpeg" width="200"> |
 
 ---
 
@@ -135,7 +135,7 @@ Try the app on your Android device:
 ## 👨‍💻 Developer
 
 **Asif Javed**
-Flutter Developer | Mobile App Enthusiast | Future Software Engineer
+Flutter Developer | Mobile App Enthusiast
 
 ---
 
